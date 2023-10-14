@@ -8,17 +8,29 @@ Lowest R2_Score Training:
 Epoch 1/50
 
 531/531 [==============================] - 15s 23ms/step - loss: 0.0040 - accuracy: 0.0000e+00 - val_loss: 4.2591e-05 - val_accuracy: 0.0000e+00
+
 Epoch 2/50
+
 531/531 [==============================] - 11s 21ms/step - loss: 0.0021 - accuracy: 0.0000e+00 - val_loss: 9.3409e-06 - val_accuracy: 0.0000e+00
+
 Epoch 3/50
+
 531/531 [==============================] - 11s 21ms/step - loss: 0.0016 - accuracy: 0.0000e+00 - val_loss: 7.0977e-06 - val_accuracy: 0.0000e+00
+
 Epoch 4/50
+
 531/531 [==============================] - 11s 21ms/step - loss: 0.0014 - accuracy: 0.0000e+00 - val_loss: 8.4691e-05 - val_accuracy: 0.0000e+00
+
 Epoch 5/50
+
 531/531 [==============================] - 11s 22ms/step - loss: 0.0012 - accuracy: 0.0000e+00 - val_loss: 1.2052e-05 - val_accuracy: 0.0000e+00
+
 Epoch 6/50
+
 531/531 [==============================] - 11s 21ms/step - loss: 0.0011 - accuracy: 0.0000e+00 - val_loss: 1.6807e-04 - val_accuracy: 0.0000e+00
+
 208/208 [==============================] - 2s 6ms/step
+
 R-Squared Skoru:  0.651718828591203
 
 
