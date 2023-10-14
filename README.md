@@ -6,6 +6,7 @@ The lowest value of the r2_Scores obtained is 0.675. When the lowest value is ex
 Lowest R2_Score Training:
 
 Epoch 1/50
+
 531/531 [==============================] - 15s 23ms/step - loss: 0.0040 - accuracy: 0.0000e+00 - val_loss: 4.2591e-05 - val_accuracy: 0.0000e+00
 Epoch 2/50
 531/531 [==============================] - 11s 21ms/step - loss: 0.0021 - accuracy: 0.0000e+00 - val_loss: 9.3409e-06 - val_accuracy: 0.0000e+00
